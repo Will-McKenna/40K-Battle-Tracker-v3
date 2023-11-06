@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+  .input {
+    @apply w-56 rounded-full border border-davyGray focus:w-72 transition-all duration-300 px-2 py-1;
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "spaceMarineArmies": [
+    {
+      "name": "Space Marines",
+      "image": "./pictures/spacemarines.jpg"
+    },
+    {
+      "name": "Black Templars",
+      "image": "./pictures/templars.jpg"
+    },
+    {
+      "name": "Blood Angels",
+      "image": "./pictures/sanguinius.jpg"
+    },
+    {
+      "name": "Dark Angels",
+      "image": "./pictures/darkangels.jpg"
+    },
+    {
+      "name": "Deathwatch",
+      "image": "./pictures/deathwatch.jpg"
+    },
+    {
+      "name": "Grey Knights",
+      "image": "./pictures/greyknights.jpg"
+    },
+    {
+      "name": "Imperial Fists",
+      "image": "./pictures/imperialfists.jpg"
+    },
+    {
+      "name": "Iron Hands",
+      "image": "./pictures/robomarines.jpg"
+    },
+    {
+      "name": "Raven Guard",
+      "image": "./pictures/ravenguard.jpg"
+    },
+    {
+      "name": "Salamanders",
+      "image": "./pictures/vulkan.jpg"
+    },
+    {
+      "name": "Space Wolves",
+      "image": "./pictures/furries.jpg"
+    },
+    {
+      "name": "Ultramarines",
+      "image": "./pictures/posterbois.jpg"
+    },
+    {
+      "name": "White Scars",
+      "image": "./pictures/vroom.jpg"
+    }
+  ],
+
+  "imperiumArmies": [
+    {
+      "name": "Adeptus Sororitas",
+      "image": "./pictures/sororitas.jpg"
+    },
+    {
+      "name": "Adeptus Custodes",
+      "image": "./pictures/custodes.jpg"
+    },
+    {
+      "name": "Adeptus Mechanicus",
+      "image": "./pictures/admech.jpg"
+    },
+    {
+      "name": "Astra Militarum",
+      "image": "./pictures/militarum.jpg"
+    },
+    {
+      "name": "Imperial Knights",
+      "image": "./pictures/impknights.jpg"
+    }
+  ],
+
+  "chaosArmies": [
+    {
+      "name": "Chaos Daemons",
+      "image": "./pictures/khorne.jpg"
+    },
+    {
+      "name": "Chaos Knights",
+      "image": "./pictures/knights.jpg"
+    },
+    {
+      "name": "Chaos Space Marines",
+      "image": "./pictures/horus.jpg"
+    },
+    {
+      "name": "Death Guard",
+      "image": "./pictures/deathguard.jpg"
+    },
+    {
+      "name": "Thousand Sons",
+      "image": "./pictures/magnus.jpg"
+    },
+    {
+      "name": "World Eaters",
+      "image": "./pictures/angry.jpg"
+    }
+  ],
+
+  "xenosArmies": [
+    {
+      "name": "Aeldari",
+      "image": "./pictures/aeldari.jpg"
+    },
+    {
+      "name": "Drukhari",
+      "image": "./pictures/drukhari.jpg"
+    },
+    {
+      "name": "Genestealer Cults",
+      "image": "./pictures/gsc.jpg"
+    },
+    {
+      "name": "Necrons",
+      "image": "./pictures/necrons.jpg"
+    },
+    {
+      "name": "Orks",
+      "image": "./pictures/orkz.jpg"
+    },
+    {
+      "name": "T'au Empire",
+      "image": "./pictures/tau.jpg"
+    },
+    {
+      "name": "Tyranids",
+      "image": "./pictures/bugs.jpg"
+    },
+    {
+      "name": "Leagues of Votann",
+      "image": "./pictures/dwarves.jpg"
+    }
+  ]
+}
